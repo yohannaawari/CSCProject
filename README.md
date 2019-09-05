@@ -1,3 +1,3 @@
 # CSCProject
 
-My First Repository
+MY Java Script Assignment
